@@ -6,7 +6,7 @@ Currently in the Fractal Residency program — here's what I've been shipping:
 
 ## Projects
 
-### [Context Arena](https://context-arena.vercel.app/)
+### [Context Arena](https://context-arena.vercel.app/) · [GitHub](https://github.com/TheGermanAZ/context-arena)
 A research platform that benchmarks what LLMs forget when context windows fill up. Tests 21 memory compression strategies across 8 stress-test scenarios, discovering a novel "Quantity-Pinning Buffer" approach that achieves 96.8% retention and 88% accuracy.
 
 ### [Pocket Empires](https://claude-game-ruby.vercel.app/)
@@ -15,7 +15,7 @@ A Civilization-lite 4X strategy game built with PixiJS. Features 5 victory condi
 ### [Finetune Personas](https://github.com/TheGermanAZ/finetune-personas)
 An end-to-end LLM fine-tuning pipeline that generates synthetic persona training data with Claude, fine-tunes Qwen3-1.7B using LoRA on Apple Silicon via MLX, and exports to GGUF for local inference. Trained a Yoda persona model on 100 synthetic examples in 600 iterations.
 
-### [Corporate Clash](https://corporate-clash-production.up.railway.app/)
+### [Corporate Clash](https://corporate-clash-production.up.railway.app/) · [GitHub](https://github.com/TheGermanAZ/corporate-clash)
 A multiplayer real-time strategy game where players build corporate offices, hire employees, and attack rivals. Features dynamic economic systems, random disaster events (tariffs, return-to-office mandates, intern deletes the database), and RISK-style combat via Server-Sent Events.
 
 ### [Yoda Evals](https://github.com/TheGermanAZ/yoda-evals)
