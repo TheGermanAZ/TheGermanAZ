@@ -2,7 +2,7 @@
 
 Software engineer based in New York, building things with TypeScript, React, and AI.
 
-Currently in the Fractal Residency program — here's what I've been shipping:
+Interested in building Agents to solve real-world problems and solve all of the problems that come with it.
 
 ## Projects
 
